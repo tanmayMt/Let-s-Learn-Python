@@ -1,0 +1,6 @@
+f=open("10.demob","w+b")
+byte_output=bytearray([65,66,67])
+print(byte_output)
+f.write(byte_output)
+f.seek(0)
+print(f.read())

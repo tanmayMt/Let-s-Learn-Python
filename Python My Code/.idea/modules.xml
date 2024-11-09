@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QuickAccessPython/.idea/QuickAccessPython.iml" filepath="$PROJECT_DIR$/../QuickAccessPython/.idea/QuickAccessPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codeWithHarryPythonTutorial/.idea/codeWithHarryPythonTutorial.iml" filepath="$PROJECT_DIR$/../codeWithHarryPythonTutorial/.idea/codeWithHarryPythonTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collegeAssignmentPython/.idea/collegeAssignmentPython.iml" filepath="$PROJECT_DIR$/../collegeAssignmentPython/.idea/collegeAssignmentPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freeCodeCamePythonTutorial/.idea/freeCodeCamePythonTutorial.iml" filepath="$PROJECT_DIR$/../freeCodeCamePythonTutorial/.idea/freeCodeCamePythonTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freeCodeCampPythonTutorial/.idea/freeCodeCampPythonTutorial.iml" filepath="$PROJECT_DIR$/../freeCodeCampPythonTutorial/.idea/freeCodeCampPythonTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myPythonCode.iml" filepath="$PROJECT_DIR$/.idea/myPythonCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../niloySirHomeTaskPython/.idea/niloySirHomeTaskPython.iml" filepath="$PROJECT_DIR$/../niloySirHomeTaskPython/.idea/niloySirHomeTaskPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practicePython/.idea/practicePython.iml" filepath="$PROJECT_DIR$/../practicePython/.idea/practicePython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../programmingWithMoshPythonCode/.idea/programmingWithMoshPythonCode.iml" filepath="$PROJECT_DIR$/../programmingWithMoshPythonCode/.idea/programmingWithMoshPythonCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../programmingWithMosh/.idea/programmingWithMoshPythonTutorial.iml" filepath="$PROJECT_DIR$/../programmingWithMosh/.idea/programmingWithMoshPythonTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tonoySirStudyMaterialPython/.idea/tonoySirStudyMaterialPython.iml" filepath="$PROJECT_DIR$/../tonoySirStudyMaterialPython/.idea/tonoySirStudyMaterialPython.iml" />
+    </modules>
+  </component>
+</project>

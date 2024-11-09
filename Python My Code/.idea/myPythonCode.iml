@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="codeWithHarryPythonTutorial" />
+    <orderEntry type="module" module-name="programmingWithMoshPythonTutorial" />
+    <orderEntry type="module" module-name="freeCodeCampPythonTutorial" />
+    <orderEntry type="module" module-name="programmingWithMoshPythonCode" />
+    <orderEntry type="module" module-name="niloySirHomeTaskPython" />
+    <orderEntry type="module" module-name="tonoySirStudyMaterialPython" />
+    <orderEntry type="module" module-name="QuickAccessPython" />
+    <orderEntry type="module" module-name="collegeAssignmentPython" />
+    <orderEntry type="module" module-name="practicePython" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="freeCodeCamePythonTutorial" />
+  </component>
+</module>
